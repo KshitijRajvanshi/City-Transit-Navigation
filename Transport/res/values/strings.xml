@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Transport!</string>
+    <string name="app_name">Transport System</string>
+    <string name="main_title">TRANSPORT SYSTEM GUIDE</string>
+<string name="Metro_guide_label">METRO GUIDE</string>
+<string name="Cab_guide_label">DTC/AUTO GUIDE</string>
+<string name="about_label">ABOUT</string>
+<string name="exit_label">EXIT</string>
+<string name="Show_Fare_label">Show Fare</string>
+<string name="ShowRoute_label">Get Route</string>
+<string name="ShowMap_label">Show Map</string>
+<string name="RedLine_label">RED LINE</string>
+<string name="YellowLine_label">YELLOW LINE</string>
+<string name="BlueLine_label">BLUE LINE</string>
+<string name="GreenLine_label">GREEN LINE</string>
+<string name="VioletLine_label">VIOLET LINE</string>
+<string name="OrangeLine_label">ORANGE LINE</string>
+
+<string name="metro_prompt">Choose a Station</string>
+<array name="metro_array">
+<item> Jahangirpuri </item>
+<item> Adarsh Nagar </item>
+<item> Azad Pur </item>
+<item> Model Town </item>
+<item> GTB Nagar </item>
+<item> Vishwa Vidyalaya </item>
+<item> Vidhan Sabha </item>
+<item> Civil Lines </item>
+<item> Kashmere Gate </item>
+<item> Delhi Main </item>
+<item> Chawri Bazar </item>
+<item> New Delhi </item>
+<item> Rajiv Chowk </item>
+<item> Patel Chowk </item>
+<item> Central Seceritariat</item>
+<item> Khan Market </item>
+<item> Jawaharlal Nehru Stadium </item>
+<item> Jangpura </item>
+<item> Lajpat Nagar </item>
+<item> Moolchand </item>
+<item> Kailash Colony </item>
+<item> Nehru Place </item>
+<item> Kalkaji Mandir </item>
+<item> Govind Puri </item>
+<item> Okhla </item>
+<item> Jasola Apollo </item>
+<item> Sarita Vihar </item>
+<item> Mohan Estate </item>
+<item> Tughlakabad </item>
+<item> Badarpur </item>
+
+<item> Udyog Bhawan </item>
+<item> Race Cource </item>
+<item> Jor Bagh </item>
+<item> INA </item>
+<item> AIIMS </item>
+<item> Green Park </item>
+<item> Hauz Khas </item>
+<item> Malviya Nagar </item>
+<item> Saket </item>
+<item> Qutub Minar </item>
+<item> Chhatarpur </item>
+<item> Sultanpur </item>
+<item> Ghitorni </item>
+<item> Arjan Garh </item>
+<item> Guru Dronacharya </item>
+<item> Sikandarpur </item>
+<item> MG Road </item>
+<item> IFFCO Chowk </item>
+<item> HUDA City Center </item>
+
+
+
+</array>
+
+<string name="metro1_prompt">Choose a Station</string>
+<array name="metro1_array">
+<item> Khan Market </item>
+<item> Jawaharlal Nehru Stadium </item>
+<item> Jangpura </item>
+<item> Lajpat Nagar </item>
+<item> Moolchand </item>
+<item> Kailash Colony </item>
+<item> Nehru Place </item>
+<item> Kalkaji Mandir </item>
+<item> Govind Puri </item>
+<item> Okhla </item>
+<item> Jasola Apollo </item>
+<item> Sarita Vihar </item>
+<item> Mohan Estate </item>
+<item> Tughlakabad </item>
+<item> Badarpur </item>
+<item> Jahangirpuri </item>
+<item> Adarsh Nagar </item>
+<item> Azad Pur </item>
+<item> Model Town </item>
+<item> GTB Nagar </item>
+<item> Vishwa Vidyalaya </item>
+<item> Vidhan Sabha </item>
+<item> Civil Lines </item>
+<item> Kashmere Gate </item>
+<item> Delhi Main </item>
+<item> Chawri Bazar </item>
+<item> New Delhi </item>
+<item> Rajiv Chowk </item>
+<item> Patel Chowk </item>
+<item> Central Seceritariat</item>
+<item> Udyog Bhawan </item>
+<item> Race Cource </item>
+<item> Jor Bagh </item>
+<item> INA </item>
+<item> AIIMS </item>
+<item> Green Park </item>
+<item> Hauz Khas </item>
+<item> Malviya Nagar </item>
+<item> Saket </item>
+<item> Qutub Minar </item>
+<item> Chhatarpur </item>
+<item> Sultanpur </item>
+<item> Ghitorni </item>
+<item> Arjan Garh </item>
+<item> Guru Dronacharya </item>
+<item> Sikandarpur </item>
+<item> MG Road </item>
+<item> IFFCO Chowk </item>
+<item> HUDA City Center </item>
+
+
+
+</array>
+
+<string name="route_prompt">Choose a Bus Route No.</string>
+<array name="route_array">
+<item>Airport Express-1(Anand vihar)</item>
+<item>Airport Express-2(Rohini Sec-1)</item>
+<item>Airport Express-3(Indirapuram)</item>
+<item>Airport Express-4(Kashmere Gate)</item>
+<item>Airport Express-5(Azad Pur Term.)</item>
+<item>Airport Express-6(Noida Sec-35)</item>
+<item>Airport Hotel Link-7(RajendraPlace)</item>
+<item>Airport Hotel Link-8(GurgaonISBT)</item>
+<item>33:Bhajan pura-Noida Sec 37</item>
+<item>34:Mehrauli-Noida Sec 32</item>
+<item>34EXT:Lado Sarai-Mayur Vihar3</item>
+<item>66:Nehru Stadium-Vasant Kunj</item>
+<item>70:Anand Vihar-Naraina Vihar</item>
+<item>73:Anand Vihar-H.N.Clock Tower</item>
+<item>85:Anand Vihar-Punjabi Bagh(T)</item>
+<item>85EXT:Anand Vihar-West Enclave</item>
+<item>99:Sarai Kale Khan-Tri Nagar</item>
+<item>100:Kendriya Term-Adarsh Nagar</item>
+<item>101:Nizamuddin R.S-Saroop Nagar</item>
+<item>102:Old Delhi R.S-Rohini Sec22</item>
+<item>104:Shivaji Stadium-Jharoda Village</item>
+<item>114:FatehPuri-QutubGarh Border</item>
+<item>118:R.P.Bagh-KalyanPuri</item>
+<item>120:Kendriya Term-Narela Term</item>
+<item>211:Mori Gate(T)-Mayur Vihar Ph3</item>
+<item>221:Mori Gate(T)-Anand Vihar</item>
+<item>319:Shahdara-Noida Sec32</item>
+<item>347:ISBT-Noida Sec34</item>
+<item>355:Anand Parbat-Noida Sec32</item>
+<item>443:Shahdara-BadarPur</item>
+<item>534:Anand Vihar-Mehrauli</item>
+<item>543:Anand Vihar-S.J.Terminal</item>
+<item>740:Anand Vihar-Uttam Nagar</item>
+</array>
+
+
+
+
+
+
+
+
+
+
+
+
+<string name="source_prompt">Choose a source</string>
+     <array name="source_array">
+      
+<item> Dilshad Garden </item>
+<item> Jhil Mil </item>
+<item> Mansarovar Park </item>
+<item> Shahdara </item>
+<item> Welcome </item>
+<item> Seelampur </item>
+<item> Shastri Park </item>
+<item> Kashmere Gate </item>
+<item> Tis Hazari </item>
+<item> Pul Bangash </item>
+<item> Pratap Nagar </item>
+<item> Shastri Nagar </item>
+<item> Inder Lok </item>
+<item> Kanhiya Nagar </item>
+<item> Keshav Puram </item>
+<item> Netaji Subhash Place </item>
+<item> Kohat Enclave </item>
+<item> Pitam Pura </item>
+<item> Rohini East </item>
+<item> Rohini West </item>
+<item> Rithala </item>
+        
+    </array>
+    <string name="destination_prompt">Choose destination</string>
+     <array name="destination_array">
+        <item> Dilshad Garden </item>
+<item> Jhil Mil </item>
+<item> Mansarovar Park </item>
+<item> Shahdara </item>
+<item> Welcome </item>
+<item> Seelampur </item>
+<item> Shastri Park </item>
+<item> Kashmere Gate </item>
+<item> Tis Hazari </item>
+<item> Pul Bangash </item>
+<item> Pratap Nagar </item>
+<item> Shastri Nagar </item>
+<item> Inder Lok </item>
+<item> Kanhiya Nagar </item>
+<item> Keshav Puram </item>
+<item> Netaji Subhash Place </item>
+<item> Kohat Enclave </item>
+<item> Pitam Pura </item>
+<item> Rohini East </item>
+<item> Rohini West </item>
+<item> Rithala </item>
+        
+    </array>
+    
+
+<string name="dinfo_text">\
+</string>
+<string name="about_title">TRANSPORT SYSTEM GUIDE </string>
+<string name="green_title">GREEN LINE-  METRO ROUTE</string>
+<string name="orange_title">AIRPORT EXPRESS LINK</string>
+<string name="violet_title">VIOLET LINE-METRO ROUTE</string>
+<string name="red_title">RED LINE- METRO ROUTE</string>
+<string name="yellow_title">YELLOW LINE- METRO ROUTE</string>
+<string name="blue_title">BLUE LINE- METRO LINE</string>
+<string name="feed_title">FEEDER BUS SERVICES</string>
+<string name="time_title">METRO TIMINGS</string>
+<string name="ticket_title">METRO TICKET INFO</string>
+<string name="station_title">STATION INFORMATION</string>
+<string name="title">DTC FARES</string>
+<string name="title1">AUTO FARES</string>
+<string name="title2">TAXI FARES</string>
+<string name="title3">EASY CAB FARES</string>
+
+
+<string name="about_text">\
+Transport System Guide is an application which
+gives the information about the transport 
+information in delhi for the Delhi Metro, Delhi 
+Transport Corporation services and the Auto/Cab 
+Services.
+</string>
+
+
+<string name="dtc_prompt">Choose a Location</string>
+<array name="dtc_array">
+<item> Old Sectt </item>
+<item> Central Sectt</item>
+<item> Kashmere Gate </item>
+<item> Shivaji Stadium </item>
+<item> Adarsh Nagar </item>
+<item> Nizamuddin R.S </item>
+<item> Supreme Court </item>
+<item> Red Fort </item>
+<item> Mori Gate </item>
+<item> Mandi House </item>
+<item>ITO </item>
+<item> Mother Dairy </item>
+<item> Anand Vihar </item>
+
+</array>
+
+<string name="dtc1_prompt">Choose a Location</string>
+<array name="dtc1_array">
+<item> Old Sectt </item>
+<item> Central Sectt</item>
+<item> Kashmere Gate </item>
+<item> Shivaji Stadium </item>
+<item> Adarsh Nagar </item>
+<item> Nizamuddin R.S </item>
+<item> Supreme Court </item>
+<item> Red Fort </item>
+<item> Mori Gate </item>
+<item> Mandi House </item>
+<item>ITO </item>
+<item> Mother Dairy </item>
+<item> Anand Vihar </item>
+
+</array>
+
+
+
+</resources>

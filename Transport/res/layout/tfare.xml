@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20dip" 
+    android:background="@drawable/redd"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="Enter the distance in K.M."
+    android:textSize="20dp"
+    android:textStyle="bold"
+    />
+
+<EditText android:text="" 
+android:id="@+id/EditText011" 
+android:layout_width="fill_parent" 
+android:layout_height="wrap_content"
+android:inputType="number|numberDecimal|numberSigned">
+</EditText>
+<CheckBox
+ android:layout_width="wrap_content" 
+ android:id="@+id/CheckBox011" 
+ android:text="Waiting Charges" 
+ android:layout_height="wrap_content" 
+ android:layout_gravity="center|left">
+ </CheckBox>
+
+<CheckBox android:text="Night Charges" 
+android:id="@+id/CheckBox021" 
+android:layout_width="wrap_content" 
+android:layout_height="wrap_content"></CheckBox>
+
+<Button android:text="Get Fare" 
+android:id="@+id/Button011" 
+android:layout_width="wrap_content"
+ android:layout_height="wrap_content">
+ </Button>
+</LinearLayout>
+

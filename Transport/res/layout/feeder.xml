@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="11px"
+
+android:text="FEATURES OF THE FEEDER BUSES
+
+ 0-4 KM: 5 Rs., 4-10 KM: 10 Rs. and more than 10 KM: 15 Rs.
+ 
+The buses can seat 18 to 20 people with 10 persons standing.
+They are environment friendly with CNG engine.
+Control Centers are being set up to monitor the movement of vehicles 
+and will have traffic managers, traffic inspectors and Control Room Operators.
+
+Buses are fan cooled.First Aid Box and Fire Extinguisher are provided in the buses."/>
+</ScrollView>
+</LinearLayout>

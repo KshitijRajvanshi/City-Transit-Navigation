@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+<ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textColor="@color/violet"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="13px"
+
+
+android:text="Central Secretariat -----> Khan Market -----> Jawaharlal Nehru Stadium -----> Jangpura -----> Lajpat Nagar -----> Moolchand -----> Kailash Colony -----> Nehru Place -----> Kalkaji Mandir -----> Govind Puri -----> Okhla -----> Jasola Apollo -----> Sarita Vihar -----> Mohan Estate -----> Tughlakabad -----> Badarpur  .                                                                     Note: Central Secretariat is an Interchange station for yellow line." ></TextView>
+
+</ScrollView>
+</LinearLayout>

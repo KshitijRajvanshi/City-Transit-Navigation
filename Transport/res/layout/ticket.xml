@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="11px"
+
+android:text="Automatic Ticketing
+
+Delhi Metro has introduced, for the first time in the country, ticketing and passenger control 
+through a completely Automatic Fare Collection system.
+
+Ticket Options:
+Travel Card : Most convenient for the frequent commuter. 
+
+A stored value card, Travel Cards are available in the denominations of Rs. 50/- 
+and can be recharged in a multiples of Rs 50/- to a maximum limit of Rs. 800/-. 
+- Refundable Deposit: Rs.50 only
+- Validity: One Year from the date of purchase or one year from the date of recharge whichever is later.
+- Renewal: No extra charge
+- Facility to check balance on Card: Ticket Reading Machines at all Metro Stations.
+
+Tourist Card:
+For unlimited travel over short periods. There are two kinds of cards - 1 day and 3 day.
+- Value of 1-Day Card: Rs 100
+- Value of 3-Day Card: Rs 250
+- Refundable Deposit: Rs 50/- payable at purchase (refundable on return of card)
+
+
+Token:
+- Single-Journey Token: For one way journey
+- Value will depend on the destination. Valid only on the day of purchase.
+- Minimum Fare Rs. 8/- and Maximum Fare Rs. 30/-"/>
+</ScrollView>
+</LinearLayout>

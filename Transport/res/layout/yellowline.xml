@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textColor="@color/yellows"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="13px"
+
+android:text="Jahingirpuri -----> Adarsh Nagar -----> Azad Pur -----> Model Town -----> GTB Nagar -----> Vishwa Vidyalaya -----> Vidhan Sabha -----> Civil Lines -----> Kashmere Gate -----> Chandini Chowk -----> Chawri Bazar ------> New Delhi Station -----> Rajiv Chowk -----> Patel Chowk -----> Central Seceritariat -----> Udyog Bhawan -----> Race Cource -----> Jor Bagh -----> INA -----> AIIMS -----> Green Park -----> Hauz Khas -----> Malviya Nagar -----> Saket -----> Qutub Minar -----> Chhatarpur -----> Sultanpur -----> Ghitorni -----> Arjan Garh -----> Guru Dronacharya -----> Sikandarpur -----> MG Road -----> IFFCO Chowk -----> HUDA City.                                        Note: Kashmere Gate is an interchange station for red line.   New Delhi Station is an Interchange station for airport link.      Rajiv Chowk is an interchange station for blue line.      Central Scretariat is an interchange station for violet line" />
+
+</ScrollView>
+</LinearLayout>

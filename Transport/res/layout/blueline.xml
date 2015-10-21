@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textColor="@color/blue"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="13px"
+android:text=" Dwarka Secror-21 -----> Dwarka Sector-8 -----> Dwarka Secror-9 -----> Dwarka Secror-10 -----> Dwarka Secror-11 -----> Dwarka Secror-12 -----> Dwarka Secror-13 -----> Dwarka Secror-14 -----> Dwarka -----> Dwarka Mor -----> Nawada -----> Uttam Nagar West -----> Uttam Nagar East -----> Janakpuri West -----> Janakpuri East -----> Tilak Nagar -----> Subhash Nagar -----> Tagore Garden -----> Rajouri Garden -----> Ramesh Nagar -----> Moti Nagar -----> Kirti Nagar -----> Shadipur -----> Patel Nagar -----> Rajendra Place -----> Karol Bagh -----> Jhandewalan -----> Ramkrishna Ashram Marg -----> Rajiv Chowk -----> Barakhamba Road -----> Mandi House -----> Pragati Maidan -----> Indraprastha -----> Yamuna Bank .                                                   Note: Yamuna Bank is interchange station for two routes.                                                          For Anand Vihar:        Yamuna Bank -----> Laxmi Nagar -----> Nirman Vihar -----> Preet Vihar -----> Karkardoma -----> Anand Vihar.        For Noida:     Yamuna Bank -----> Akshardham -----> Mayur Vihar ph-1 -----> Mayur Vihar EXt -----> Ashok Nagar -----> Noida Sec-15 -----> Noida Sec-16 -----> Noida Sec-18 -----> Botanical Garden -----> Golf Course -----> Noida City Centre.                           Note: Rajiv Chowk is an interchange station for yellow line.
+">
+</TextView>
+</ScrollView></LinearLayout>

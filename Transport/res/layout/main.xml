@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/guide"
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+android:padding="30dip"
+android:orientation="horizontal" >
+
+<LinearLayout
+android:orientation="vertical"
+android:layout_height="wrap_content"
+android:layout_width="fill_parent"
+android:layout_gravity="center" >
+<TextView
+android:text="@string/main_title"
+android:layout_height="wrap_content"
+android:layout_width="wrap_content"
+android:layout_gravity="center"
+android:textStyle="bold"
+android:layout_marginBottom="25dip"
+android:textSize="20sp" />
+<Button
+android:id="@+id/continue_button"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:textSize="16sp"
+
+android:text="@string/Metro_guide_label" />
+<Button
+android:id="@+id/new_button"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:textSize="16sp"
+
+android:text="@string/Cab_guide_label" />
+<Button 
+android:id="@+id/about_button"
+ android:layout_height="wrap_content" 
+ android:text="@string/about_label"
+ android:textSize="16sp"
+ 
+  android:layout_width="fill_parent">
+  </Button>
+<Button
+android:id="@+id/exit_button"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:textSize="16sp"
+
+android:text="@string/exit_label" />
+</LinearLayout>
+
+</LinearLayout>

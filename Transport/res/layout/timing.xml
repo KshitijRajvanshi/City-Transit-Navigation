@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="11px"
+
+android:text="Metro Timings
+
+The Metro Trains run from 6/00 AM in the morning till about 11/00 PM in the night.
+
+Airport Express Metro Line:
+Operation Timing - 06.00 hrs to 22.00 hrs.
+
+The trains on the elevated section between Dilshad Garden and Rithala cover a distance of 25.1 Kms in about 45 minutes. The frequency of train services in the elevated section varies from 3 minutes during peak hours upto 12 minutes during non peak hours.
+The 44 Kms section between Jahangirpuri and HUDA City Centre(Gurgaon) is covered in about 1 Hrs. 30 minutes. The train frequency varies from 3 minutes at peak time upto 12 minutes in non peak hours.
+Line III (Noida City Centre - Dwarka Sector 21) covers a distance of 49 Kms approx. The frequency varies 3 minutes at peak hours and 12 minutes in non peak hours and is covered in 1 hrs. 30 Mins. approx.
+Line IV (Yamuna Bank – Anand Vihar(ISBT)) covers a distance of 6.25 kms. The frequency varies 6 minutes at peak hours and 12 minutes in non peak hours. The 6.25 Kms section between Yamuna Bank – Anand Vihar(ISBT) section is covered in 10 minutes approx.
+The 15.15 KM long Inderlok – Mundka section is covered in about 30 Mins. Frequency on this section is about 10 mins.
+The 15 KM long Central Secretariat – Sartita Vihar section is covered in approxi. 30 mins. Frequency varies from 4 mins during peak hours to 12 mins in non peak hours."></TextView>
+</ScrollView>
+</LinearLayout>

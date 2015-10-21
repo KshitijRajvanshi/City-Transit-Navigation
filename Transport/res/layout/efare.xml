@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+   <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="13px"
+
+android:text="QUICK CABS- RS 10.00 PER KM
+BOOKING AT : 011-45333333
+
+
+MERU CABS - RS 20.00(5:00 AM TO 11:00 PM) AND RS 25.00(11:00 PM TO 5:00 AM)
+BOOKING AT : 44224422
+
+
+         
+         
+         
+         EASY CABS- RS 20.00 PER KM
+BOOKING AT : 43434343"/>
+</ScrollView>
+</LinearLayout>

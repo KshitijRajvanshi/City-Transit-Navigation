@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+   <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="11px"
+
+android:text="            ORDINARY SERVICE	  
+ 
+ 
+     For Adults	:
+  Upto 4 Kms is Rs 5. For 4-10 Kms. is Rs 10. For 10 Kms. onwards is Rs 15.        
+	       
+
+
+   For children(Age 5 to 12 yrs.): 
+Upto 4 Kms. is Rs 3. For 4 - 10 Kms. Rs 5. For 10 Kms. onwards is Rs 8.
+
+
+                          
+                          
+                                    LOW FLOOR AC SERVICE	  
+         
+         
+            For Adults	: 
+ Upto 4 Kms. is Rs 10. For 4-8 Kms. is Rs15. For 8-12 Kms. is Rs 20.For 12 onwards.  is Rs 25.	 
+ 
+ 
+        
+	       
+	       
+	       
+                    For children (Age 5 to 12 yrs.):
+Upto 4 Kms. is Rs 5. For 4-8 Kms. is Rs 8. For 8 - 12 Kms. is Rs 10. For 12 onwards. is Rs 13"/>
+</ScrollView>
+</LinearLayout>

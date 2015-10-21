@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+
+<ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent">
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+android:textColor="@color/green"
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="13px"
+android:text="Inderlok ----> Ashok Park Main -----> Punjabi Bagh East -----> Shivaji Park -----> Madipur -----> Paschim Vihar East -----> Paschim Vihar West ----> Peera Garhi -----> Udyog Nagar ------> Surajmal Stadium -------> Nangloi -------> Nangloi Railway Station------> Rajdhani Park ----->Mundka .                                                                                                                                                                                                                                 Note: Inderlok is an Interchange station for red line" />
+
+</ScrollView>
+</LinearLayout>

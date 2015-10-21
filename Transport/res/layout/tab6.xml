@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:id="@+id/tab6Layout" android:orientation="horizontal"
+	android:padding="30dip"
+	
+	android:background="@drawable/b3">
+ <LinearLayout
+android:orientation="vertical"
+android:layout_height="wrap_content"
+android:layout_width="fill_parent"
+android:layout_gravity="center" >
+            
+            <Button android:layout_width="fill_parent"
+                android:layout_height="wrap_content" android:text="DTC BUS FARE"
+                android:id="@+id/btn5"
+                android:textSize="16sp"></Button>
+            <Button android:text="AUTO FARE" android:id="@+id/btn6"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"
+                android:textSize="16sp"
+                ></Button>
+            
+        
+            <Button android:text="TAXI FARE" android:id="@+id/btn7"
+                android:layout_width="fill_parent" android:layout_height="wrap_content"
+                android:textSize="16sp"
+                ></Button>
+            <Button android:text="RADIO CAB SERVICES" android:id="@+id/btn8"
+                            android:layout_width="fill_parent" android:layout_height="wrap_content"
+                            android:textSize="16sp"
+                            ></Button>
+            
+       </LinearLayout>
+    </LinearLayout>

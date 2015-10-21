@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  <ScrollView
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+ >
+
+  <TextView
+android:layout_width="wrap_content"
+android:layout_height="fill_parent"
+
+android:textSize="18dp"
+android:textStyle="bold"
+android:lineSpacingExtra="11px"
+
+android:text="Line 1 (Dilshad Garden - Rithala)
+Date of Completion:
+Shahdara - Tis Hazari - December 2002
+Inderlok - Rithala - March 2004
+Dilshad Garden - Shahdara - June 2008 
+Distance : 25.1 kms
+No. of Stations : 21
+
+
+
+Line 2 (Jahangirpuri - Central Secretariat))
+Date of Completion :
+Vishwa Vidyalaya - Kashmere Gate - December 2004 
+Kashmere Gate - Central Sectt. - July 2005
+Jahangirpuri - Vishwa Vidyalaya - February 2009 
+Distance : 17.36 Kms
+No. of Stations : 15
+
+
+
+
+Line 3 (Noida City Centre – Dwarka Sector 9)
+Date of Completion :
+Barakhamba – Dwarka - December, 2005 
+Dwarka - Dwarka Subcity - March, 2006
+Barakhamba - Indraprastha - November, 2006 
+Indraprastha – Yamuna Bank – May, 2009 
+Yamuna Bank – Noida City Centre – November 2009
+Distance :47.3 Kms
+No. of Stations :42
+
+
+
+Line 4 (Yamuna Bank – Anand Vihar)
+Date of Completion:
+Yamuna Bank – Anand Vihar – January 2010 
+Distance : 6.25 Kms
+No. of Stations : 21" />
+</ScrollView>
+</LinearLayout>
